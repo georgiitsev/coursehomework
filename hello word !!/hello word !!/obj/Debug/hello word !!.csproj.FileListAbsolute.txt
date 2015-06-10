@@ -1,0 +1,5 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\hello word !!\hello word !!\bin\Debug\hello word !!.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\hello word !!\hello word !!\bin\Debug\hello word !!.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\hello word !!\hello word !!\bin\Debug\hello word !!.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\hello word !!\hello word !!\obj\Debug\hello word !!.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\hello word !!\hello word !!\obj\Debug\hello word !!.pdb
