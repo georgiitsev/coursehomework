@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\bin\Debug\exam4.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\bin\Debug\exam4.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\bin\Debug\exam4.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\obj\Debug\exam4.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\obj\Debug\exam4.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\exam4\obj\Debug\exam4.pdb

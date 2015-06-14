@@ -1,0 +1,5 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\moreexam1\bin\Debug\moreexam1.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\moreexam1\bin\Debug\moreexam1.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\moreexam1\bin\Debug\moreexam1.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\moreexam1\obj\Debug\moreexam1.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\exam1\moreexam1\obj\Debug\moreexam1.pdb
