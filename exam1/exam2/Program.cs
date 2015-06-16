@@ -10,8 +10,8 @@ namespace exam2
     {
         static void Main(string[] args)
         {
-            var str  = "hello";
-            var myBool = (str == "hello");
+        var str  = "hello";
+         var myBool = (str == "hello");
             Console.WriteLine(myBool);
         }
     }
