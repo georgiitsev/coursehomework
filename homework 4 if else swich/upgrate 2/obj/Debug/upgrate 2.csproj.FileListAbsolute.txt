@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\bin\Debug\upgrate 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\bin\Debug\upgrate 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\bin\Debug\upgrate 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\obj\Debug\upgrate 2.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\obj\Debug\upgrate 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\upgrate 2\obj\Debug\upgrate 2.pdb

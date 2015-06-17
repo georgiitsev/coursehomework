@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\bin\Debug\homework 4 if else swich.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\bin\Debug\homework 4 if else swich.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\bin\Debug\homework 4 if else swich.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\obj\Debug\homework 4 if else swich.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\obj\Debug\homework 4 if else swich.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework 4 if else swich\homework 4 if else swich\obj\Debug\homework 4 if else swich.pdb

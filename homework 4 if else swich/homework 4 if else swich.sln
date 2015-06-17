@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework 4 if else swich", "homework 4 if else swich\homework 4 if else swich.csproj", "{A3987CDA-6A8A-4292-9729-8E49CF476C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "second way on the first exam", "exam2\second way on the first exam.csproj", "{B4AA8B0F-9D50-4667-9D64-8144E5D5DAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2exam", "exam2-1\2exam.csproj", "{1579EDE2-3E1B-4F34-AA8B-B899DD6B50AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upgrade", "upgrade\upgrade.csproj", "{F92BE461-83A7-4D20-B0A2-93F8A6264B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final exam", "final exam\final exam.csproj", "{DAE358C9-C7FD-4CCB-96CA-7805B506E1BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upgrate 2", "upgrate 2\upgrate 2.csproj", "{E5AB6155-B302-4BCA-A861-4A8D67CB7852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3987CDA-6A8A-4292-9729-8E49CF476C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3987CDA-6A8A-4292-9729-8E49CF476C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3987CDA-6A8A-4292-9729-8E49CF476C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3987CDA-6A8A-4292-9729-8E49CF476C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4AA8B0F-9D50-4667-9D64-8144E5D5DAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AA8B0F-9D50-4667-9D64-8144E5D5DAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AA8B0F-9D50-4667-9D64-8144E5D5DAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AA8B0F-9D50-4667-9D64-8144E5D5DAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1579EDE2-3E1B-4F34-AA8B-B899DD6B50AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1579EDE2-3E1B-4F34-AA8B-B899DD6B50AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1579EDE2-3E1B-4F34-AA8B-B899DD6B50AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1579EDE2-3E1B-4F34-AA8B-B899DD6B50AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92BE461-83A7-4D20-B0A2-93F8A6264B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92BE461-83A7-4D20-B0A2-93F8A6264B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92BE461-83A7-4D20-B0A2-93F8A6264B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92BE461-83A7-4D20-B0A2-93F8A6264B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE358C9-C7FD-4CCB-96CA-7805B506E1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE358C9-C7FD-4CCB-96CA-7805B506E1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE358C9-C7FD-4CCB-96CA-7805B506E1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE358C9-C7FD-4CCB-96CA-7805B506E1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AB6155-B302-4BCA-A861-4A8D67CB7852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AB6155-B302-4BCA-A861-4A8D67CB7852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AB6155-B302-4BCA-A861-4A8D67CB7852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AB6155-B302-4BCA-A861-4A8D67CB7852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
