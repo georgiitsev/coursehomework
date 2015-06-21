@@ -12,13 +12,12 @@ namespace upgrate_2
         {
             Console.WriteLine("Enter some card ");
             string card = Console.ReadLine();
-            string cards = "2,3,4,5,6,7,8,9,10,J,Q,K,A";
+            string cards = "2345678910JQKA";
             card = card.ToUpper();
 
-            if (cards.Contains(card))
+            if  (cards.Contains(card))
             {
                 Console.WriteLine("THIS IS A VALID CARD THANKS!");
-
             }
             else
             {

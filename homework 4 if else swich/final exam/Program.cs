@@ -17,7 +17,7 @@ namespace final_exam
 
             switch (card)
             {
-                case "2":
+                case 2:
                 case "3":
                 case "4":
                 case "5":
