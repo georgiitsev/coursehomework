@@ -1,0 +1,10 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam print the hell numbers\obj\Debug\exam print the hell numbers.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam print the hell numbers\obj\Debug\exam print the hell numbers.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam print the hell numbers\obj\Debug\exam print the hell numbers.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam print the hell numbers\obj\Debug\exam print the hell numbers.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam print the hell numbers\bin\Debug\exam print the hell numbers.pdb

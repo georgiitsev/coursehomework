@@ -1,0 +1,8 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 3 index multiplied by 10\bin\Debug\exam 3 index multiplied by 10.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 3 index multiplied by 10\bin\Debug\exam 3 index multiplied by 10.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 3 index multiplied by 10\bin\Debug\exam 3 index multiplied by 10.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 3 index multiplied by 10\obj\Debug\exam 3 index multiplied by 10.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 3 index multiplied by 10\obj\Debug\exam 3 index multiplied by 10.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 3 index multiplied by 10\bin\Debug\exam 3 index multiplied by 10.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 3 index multiplied by 10\obj\Debug\exam 3 index multiplied by 10.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 3 index multiplied by 10\obj\Debug\exam 3 index multiplied by 10.pdb

@@ -1,0 +1,8 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 3\bin\Debug\exam 3.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 3\bin\Debug\exam 3.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 3\bin\Debug\exam 3.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 3\obj\Debug\exam 3.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 3\obj\Debug\exam 3.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 3\bin\Debug\exam 3.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 3\obj\Debug\exam 3.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 3\obj\Debug\exam 3.pdb

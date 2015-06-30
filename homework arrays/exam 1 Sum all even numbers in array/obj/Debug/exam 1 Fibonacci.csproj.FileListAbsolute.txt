@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

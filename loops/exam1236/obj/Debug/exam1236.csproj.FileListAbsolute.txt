@@ -1,0 +1,2 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam1236\bin\Debug\exam1236.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam1236\bin\Debug\exam1236.exe.config

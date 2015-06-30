@@ -1,0 +1,11 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 4 find first number in array\obj\Debug\exam 4 find first number in array.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework arrays\exam 4 find first number in array\obj\Debug\exam 4 find first number in array.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\obj\Debug\exam 4 find first number in array.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\obj\Debug\exam 4 find first number in array.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\bin\Debug\exam 4 find first number in array.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework arrays\exam 4 find first number in array\obj\Debug\exam 4 find first number in array.csprojResolveAssemblyReference.cache

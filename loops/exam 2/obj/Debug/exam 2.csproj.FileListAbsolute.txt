@@ -1,0 +1,8 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 2\bin\Debug\exam 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 2\bin\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 2\bin\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 2\obj\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 2\obj\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 2\bin\Debug\exam 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 2\obj\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 2\obj\Debug\exam 2.pdb

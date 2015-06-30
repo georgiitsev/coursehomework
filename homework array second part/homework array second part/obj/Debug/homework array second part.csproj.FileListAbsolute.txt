@@ -1,0 +1,8 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\homework array second part\bin\Debug\homework array second part.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\homework array second part\bin\Debug\homework array second part.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\homework array second part\bin\Debug\homework array second part.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\homework array second part\obj\Debug\homework array second part.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\homework array second part\obj\Debug\homework array second part.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\homework array second part\bin\Debug\homework array second part.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\homework array second part\obj\Debug\homework array second part.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\homework array second part\obj\Debug\homework array second part.pdb

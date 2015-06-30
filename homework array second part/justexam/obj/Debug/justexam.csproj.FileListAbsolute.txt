@@ -1,0 +1,10 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\justexam\bin\Debug\justexam.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\justexam\bin\Debug\justexam.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\justexam\bin\Debug\justexam.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\justexam\obj\Debug\justexam.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\justexam\obj\Debug\justexam.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\justexam\bin\Debug\justexam.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\justexam\obj\Debug\justexam.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\justexam\obj\Debug\justexam.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\justexam\bin\Debug\justexam.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\justexam\bin\Debug\justexam.pdb

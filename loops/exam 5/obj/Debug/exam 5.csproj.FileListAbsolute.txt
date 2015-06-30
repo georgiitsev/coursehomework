@@ -1,0 +1,9 @@
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\bin\Debug\exam 5.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\bin\Debug\exam 5.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\bin\Debug\exam 5.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\obj\Debug\exam 5.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\obj\Debug\exam 5.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\exam 5\obj\Debug\exam 5.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 5\bin\Debug\exam 5.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 5\obj\Debug\exam 5.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\loops\exam 5\obj\Debug\exam 5.pdb

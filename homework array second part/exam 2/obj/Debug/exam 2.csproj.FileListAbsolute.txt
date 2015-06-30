@@ -1,0 +1,12 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\bin\Debug\exam 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\bin\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\bin\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\obj\Debug\exam 2.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\obj\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework array second part\exam 2\obj\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\bin\Debug\exam 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\obj\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\obj\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\bin\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\bin\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 2\obj\Debug\exam 2.csprojResolveAssemblyReference.cache

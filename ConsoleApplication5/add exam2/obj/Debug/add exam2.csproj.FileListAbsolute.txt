@@ -1,5 +1,0 @@
-C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\add exam2\bin\Debug\add exam2.exe.config
-C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\add exam2\bin\Debug\add exam2.exe
-C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\add exam2\bin\Debug\add exam2.pdb
-C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\add exam2\obj\Debug\add exam2.exe
-C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\ConsoleApplication5\add exam2\obj\Debug\add exam2.pdb

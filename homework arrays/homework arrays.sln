@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam 1 Sum all even numbers in array", "ConsoleApplication1\exam 1 Sum all even numbers in array.csproj", "{42A94D9F-828D-4564-BB3E-33CB00317A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam_2Fibonacci", "ConsoleApplication2\exam_2Fibonacci.csproj", "{A6B8473F-BBAD-44DD-91DA-C0B12E80998A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam 3 index multiplied by 10", "exam 3 index multiplied by 10\exam 3 index multiplied by 10.csproj", "{FACCD642-A555-47A6-816A-6B8FADD631CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam 4 find first number in array", "exam 4 find first number in array\exam 4 find first number in array.csproj", "{16CD40EB-4DAA-4A8C-ABCB-AF20574EF871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A94D9F-828D-4564-BB3E-33CB00317A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A94D9F-828D-4564-BB3E-33CB00317A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A94D9F-828D-4564-BB3E-33CB00317A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A94D9F-828D-4564-BB3E-33CB00317A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B8473F-BBAD-44DD-91DA-C0B12E80998A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B8473F-BBAD-44DD-91DA-C0B12E80998A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B8473F-BBAD-44DD-91DA-C0B12E80998A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B8473F-BBAD-44DD-91DA-C0B12E80998A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACCD642-A555-47A6-816A-6B8FADD631CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACCD642-A555-47A6-816A-6B8FADD631CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACCD642-A555-47A6-816A-6B8FADD631CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACCD642-A555-47A6-816A-6B8FADD631CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CD40EB-4DAA-4A8C-ABCB-AF20574EF871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CD40EB-4DAA-4A8C-ABCB-AF20574EF871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CD40EB-4DAA-4A8C-ABCB-AF20574EF871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CD40EB-4DAA-4A8C-ABCB-AF20574EF871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
