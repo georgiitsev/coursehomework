@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\bin\Debug\exam 4.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\bin\Debug\exam 4.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\bin\Debug\exam 4.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\obj\Debug\exam 4.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\obj\Debug\exam 4.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 4\obj\Debug\exam 4.pdb
