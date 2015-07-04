@@ -17,7 +17,7 @@ namespace add_exam
         public static void Print()
         {
          
-                     
+                     ////
 
             for ( int i  = 10; i <= 999 ; i++)
             {
