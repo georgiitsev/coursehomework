@@ -19,11 +19,12 @@ namespace add_exam
          
                      
 
-            for ( int i  = 10; i < 999 ; i++)
+            for ( int i  = 10; i <= 999 ; i++)
             {
-                
+              int  number1 = i / 100;
+               int  number2 = i % 10 ;
 
-                if ( i % 101 == 0 || i % 111 ==0 )
+                if (number1 == number2)
                 {
                     Console.WriteLine(i);
                 }
@@ -31,7 +32,7 @@ namespace add_exam
                 
                 if ((i % 11 == 0) && (i < 100))
                 {
-                    Console.WriteLine(i);//Сега ги качвам но тази ще я дореша не пишете точки още
+                    Console.WriteLine(i);
                 }
             }
         }

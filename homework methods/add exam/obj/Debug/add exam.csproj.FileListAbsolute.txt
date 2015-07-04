@@ -3,3 +3,9 @@ C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\add exam\bin\Deb
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\add exam\bin\Debug\add exam.pdb
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\add exam\obj\Debug\add exam.exe
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\add exam\obj\Debug\add exam.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\bin\Debug\add exam.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\obj\Debug\add exam.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\obj\Debug\add exam.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\obj\Debug\add exam.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\bin\Debug\add exam.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\add exam\bin\Debug\add exam.pdb

@@ -3,3 +3,6 @@ C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 2\bin\Debug
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 2\bin\Debug\exam 2.pdb
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 2\obj\Debug\exam 2.exe
 C:\Users\ГЕОРГИ\Desktop\project za izpit\homework methods\exam 2\obj\Debug\exam 2.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\exam 2\bin\Debug\exam 2.exe.config
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\exam 2\obj\Debug\exam 2.exe
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework methods\exam 2\obj\Debug\exam 2.pdb
