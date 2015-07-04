@@ -17,23 +17,34 @@ namespace add_exam
         public static void Print()
         {
          
-                     ////
+                     
 
             for ( int i  = 10; i <= 999 ; i++)
             {
-              int  number1 = i / 100;
-               int  number2 = i % 10 ;
-
-                if (number1 == number2)
+                if (i > 100 )
                 {
-                    Console.WriteLine(i);
+                    int number1 = i / 100;
+                    int number2 = i % 10;
+
+                    if (number1 == number2)
+                    {
+                        Console.WriteLine(i);
+
+                    }
+                }
+              
+
+                if (i < 100)
+                {
+                    if ((i % 11 == 0))
+                    {
+                        Console.WriteLine(i);
+                    }
+
+                   
+                    
                 }
                
-                
-                if ((i % 11 == 0) && (i < 100))
-                {
-                    Console.WriteLine(i);
-                }
             }
         }
     }
