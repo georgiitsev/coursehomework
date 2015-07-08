@@ -39,6 +39,12 @@ namespace exam_4
                         Console.WriteLine(matrix[i, j] );
 
                     }
+                    else
+                    {
+                        break;
+                        Console.WriteLine("there are no even numbers");
+                       
+                    }
 
 
                 }

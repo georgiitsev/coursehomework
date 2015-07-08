@@ -8,3 +8,4 @@ C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array secon
 C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 4\obj\Debug\exam 4.pdb
 C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 4\bin\Debug\exam 4.exe
 C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 4\bin\Debug\exam 4.pdb
+C:\Users\ГЕОРГИ\Desktop\soft-intellect\coursehomework\homework array second part\exam 4\obj\Debug\exam 4.csprojResolveAssemblyReference.cache

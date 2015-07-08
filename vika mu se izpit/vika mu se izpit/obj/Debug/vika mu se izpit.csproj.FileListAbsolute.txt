@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\bin\Debug\vika mu se izpit.exe.config
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\bin\Debug\vika mu se izpit.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\bin\Debug\vika mu se izpit.pdb
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\obj\Debug\vika mu se izpit.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\obj\Debug\vika mu se izpit.exe
+C:\Users\ГЕОРГИ\Desktop\project za izpit\vika mu se izpit\vika mu se izpit\obj\Debug\vika mu se izpit.pdb
